@@ -1,0 +1,12 @@
+pid, expiracion, pctipo
+1, '2021-08-10', "congelados"
+5, '2021-06-03', "frescos"
+6, '2022-07-30', "conservas"
+7, '2021-05-01', "frescos"
+8, '2022-04-30', "frescos"
+13, '2019-12-01', "frescos"
+14, '2022-05-19', "frescos"
+15, '2021-08-14', "frescos"
+16, '2021-04-16', "frescos"
+17, '2022-06-01', "congelados"
+18, '2022-06-02', "frescos"
